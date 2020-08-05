@@ -1,0 +1,27 @@
+html{
+    height: 100%;
+    width: 100%;
+  }
+
+  body{
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(to right top, #2f71da, #407ad9, #5083d7, #5f8cd5, #6e95d3);
+    
+  }
+
+  nav{
+    
+  }
+
+  .container{
+    max-width:960px;
+    max-height:489px;
+    margin-top: 50px;
+    
+  }  
+
+  .carousel-item > img{   
+    border-radius: 31px;
+
+  }
