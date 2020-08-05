@@ -25,3 +25,7 @@ html{
     border-radius: 31px;
 
   }
+  footer {
+    background-color: brown;
+    margin-bottom: 0px;
+  }
