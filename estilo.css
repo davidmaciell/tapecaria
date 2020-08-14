@@ -10,10 +10,6 @@ html{
     
   }
 
-  .navbar{
-    color: azure;
-  }
-
   .container{
     max-width:960px;
     max-height:489px;
