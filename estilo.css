@@ -10,9 +10,10 @@ html{
     
   }
 
-  .navbar{
-    color: azure;
-  }
+  .navb{
+    align-content: center;
+  }  
+  
 
   .container{
     max-width:960px;
