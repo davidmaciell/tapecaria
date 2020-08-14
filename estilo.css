@@ -10,15 +10,15 @@ html{
     
   }
 
-  .navbar{
-    color: azure;
-  }
+  .navb{
+    align-content: center;
+  }  
+  
 
   .container{
     max-width:960px;
     max-height:489px;
     margin-top: 50px;
-    
   }  
 
   .carousel-item > img{   
