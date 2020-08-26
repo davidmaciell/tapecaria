@@ -12,12 +12,7 @@ html{
     box-sizing: border-box;
   }
 
-  .navb{
-    align-content: center;
-    background-color: #FFFAFA;
-  }  
   
-
   .container{
     max-width:960px;
     max-height:489px;
@@ -32,6 +27,8 @@ html{
   .jaba{
       font-size: 4em;
       font-family: 'Rouge Script', cursive;
+      
+      
   }
 
   footer {
