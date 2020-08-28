@@ -12,22 +12,15 @@ html{
     box-sizing: border-box;
   }
 
-  
   .container{
     max-width:960px;
     max-height:489px;
     margin-top: 50px;
   }  
 
-  .carousel-item > img {   
-    border-block: rounded;
-
-  }
-
   .jaba{
       font-size: 4em;
       font-family: 'Rouge Script', cursive;
-      
       
   }
 
