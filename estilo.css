@@ -19,8 +19,8 @@ html{
     margin-top: 50px;
   }  
 
-  .carousel-item > img{   
-    border-radius: 31px;
+  .carousel-item > img {   
+    border-block: rounded;
 
   }
 
