@@ -12,26 +12,16 @@ html{
     box-sizing: border-box;
   }
 
-  .navb{
-    align-content: center;
-    background-color: #FFFAFA;
-  }  
-  
-
   .container{
     max-width:960px;
     max-height:489px;
     margin-top: 50px;
   }  
 
-  .carousel-item > img{   
-    border-radius: 31px;
-
-  }
-
   .jaba{
       font-size: 4em;
       font-family: 'Rouge Script', cursive;
+      
   }
 
   footer {
