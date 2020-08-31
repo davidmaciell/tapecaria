@@ -1,0 +1,297 @@
+[33mcommit 463fc27f69723dc47fad6b44f14b0465d81f576a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Wed Aug 26 22:03:19 2020 -0300
+
+    testeee
+
+[33mcommit 47414bdf854ecc6a710c9589bb40a748bec9e310[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Tue Aug 25 21:54:16 2020 -0300
+
+    Update index.html
+
+[33mcommit 4b4a64d974a07129658505d4ea4013438e9fbbb4[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Tue Aug 25 21:07:47 2020 -0300
+
+    Update estilo.css
+
+[33mcommit 5d46c108071b6b48a2067a8a3d7f106d6a4de4c2[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Tue Aug 25 21:06:39 2020 -0300
+
+    Update estilo.css
+
+[33mcommit a4f168eecf9aef2bd098f64d7073598de2051186[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Tue Aug 25 13:58:47 2020 -0300
+
+    Update index.html
+
+[33mcommit 8bd85fa19ca35edf55cd9a31cf58361015f17db7[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Tue Aug 25 12:41:28 2020 -0300
+
+    kk
+
+[33mcommit 52afb1df6e54002a4497d6e4ade32b2b70d8acde[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Wed Aug 19 13:52:07 2020 -0300
+
+    criei uma section
+
+[33mcommit 023e5e47106dcc875c619e94d979c9025a6e664b[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Wed Aug 19 10:41:56 2020 -0300
+
+    Update estilo.css
+
+[33mcommit a901508e8fdaf76486832e69fed394a3045f072c[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Tue Aug 18 13:56:38 2020 -0300
+
+    diminui icones
+    
+    diminui os icones pois abrindo o site no celular eles não couberam na tela
+
+[33mcommit fad4077f6a566881c1195c6fd97b81d25e1495db[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Tue Aug 18 13:52:23 2020 -0300
+
+    pequenas mudanças
+    
+    adicionei o icone de localização e mais algumas coisas
+
+[33mcommit 8e42a6174387fb141139373a50c90246d1e5edf1[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Mon Aug 17 22:35:25 2020 -0300
+
+    Update index.html
+
+[33mcommit b218997ac0306cecea4c44f0c1ef11ee69924c72[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Mon Aug 17 13:49:54 2020 -0300
+
+    footer
+
+[33mcommit a45f4534e46dd0bbd082d045cb18959b71c6dcfe[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Fri Aug 14 13:37:09 2020 -0300
+
+    Update index.html
+
+[33mcommit ef4b673cc4c8efcd8e804add21ac947f71724982[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Fri Aug 14 13:36:00 2020 -0300
+
+    Update estilo.css
+
+[33mcommit d87eeeb9d798e46a6f004966045530e27765066a[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Fri Aug 14 09:03:24 2020 -0300
+
+    Update index.html
+
+[33mcommit 780a7d38e0d9914ca8921e56afb52b00640fe5c8[m
+Merge: 6eaa2a5 5182df5
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Fri Aug 14 08:40:38 2020 -0300
+
+    Merge branch 'master' of https://github.com/davidmaciell/Tapecaria
+
+[33mcommit 6eaa2a5aa56f914a687504fce6a96cd26323e25d[m
+Merge: 858e953 4787c3c
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Fri Aug 14 08:40:34 2020 -0300
+
+    Merge branch 'nav'
+
+[33mcommit 858e9530eaeb0b9fed2839efb4234199bee04ee1[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Fri Aug 14 08:39:51 2020 -0300
+
+    Update index.html
+
+[33mcommit 4787c3c1f19e1fc25b2e292aadf1208a85274173[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Fri Aug 14 08:37:45 2020 -0300
+
+    Update index.html
+
+[33mcommit 5182df5ed564b957636c1a7cb489da25cbad70df[m[33m ([m[1;32mnav[m[33m)[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Thu Aug 13 22:54:20 2020 -0300
+
+    Update index.html
+
+[33mcommit e11310ec8f890c55f791daa5cfec61c5cd784e75[m
+Merge: 2f851f7 806d9eb
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Thu Aug 13 22:50:28 2020 -0300
+
+    Merge branch 'nav'
+
+[33mcommit 2f851f79f2ffb3a56afff32e5c22f05e312ab2a5[m
+Merge: 8f8248a e675a9b
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Thu Aug 13 22:47:52 2020 -0300
+
+    Merge branch 'icone-nav-bar'
+
+[33mcommit 806d9ebb919471db3d272f9d412e2e9e213c454d[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Thu Aug 13 22:46:04 2020 -0300
+
+    Update estilo.css
+
+[33mcommit 028df64fdbc3f68a459f175d92a8bd8fe5309166[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Thu Aug 13 22:44:50 2020 -0300
+
+    Update estilo.css
+
+[33mcommit 7dfd595482ffee6e875b805988fb664e4ee1c903[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Thu Aug 13 22:44:42 2020 -0300
+
+    Update index.html
+
+[33mcommit e675a9b8baf88e7fa5e206017db32c83e61ee9b3[m[33m ([m[1;32micone-nav-bar[m[33m)[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Thu Aug 13 22:43:16 2020 -0300
+
+    Update estilo.css
+
+[33mcommit c4aaea27d2045c0384a9b76c92b3ea06206a8e10[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Thu Aug 13 22:35:21 2020 -0300
+
+    Update estilo.css
+
+[33mcommit 8f8248ae7ce32e9793bed90cbe8d05b52ce424a6[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Thu Aug 13 11:10:49 2020 -0300
+
+    Update index.html
+
+[33mcommit afb20f26c99204bdc09d60b984510e5f40f4ce58[m
+Merge: a5d0c61 4731cae
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Wed Aug 12 13:34:14 2020 -0300
+
+    Merge branch 'master' of https://github.com/davidmaciell/Tapecaria
+
+[33mcommit a5d0c6146b708c233417726428c4bcc6e44b213d[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Wed Aug 12 12:47:47 2020 -0300
+
+    Update index.html
+
+[33mcommit 9c1fcbe6dc59febdbacda66ee5decefe641b489d[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Wed Aug 12 12:47:40 2020 -0300
+
+    Update index.html
+
+[33mcommit 4731cae826e4c3c9dcecabf0175ac4c88b8f2844[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Tue Aug 11 21:55:21 2020 -0300
+
+    Update index.html
+
+[33mcommit 473b1f2eee46ccb46b037317b0b152556eced394[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Tue Aug 11 12:38:32 2020 -0300
+
+    Update index.html
+
+[33mcommit 505801dcce8d6f489b934a1035655de6b2656f60[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Tue Aug 11 12:37:11 2020 -0300
+
+    Update index.html
+
+[33mcommit ed3abcb4a092abadd308b66af26dcaa9351161e8[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Tue Aug 11 12:13:58 2020 -0300
+
+    Update index.html
+
+[33mcommit 70a6c93c8d0e9a14f6cfb6c1360e9b586bb400f5[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Tue Aug 11 12:08:46 2020 -0300
+
+    Update index.html
+
+[33mcommit 7e3dfdc4fcf2b10e02bf8da458a24b70d9d3e3fe[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Mon Aug 10 13:50:27 2020 -0300
+
+    Update index.html
+
+[33mcommit 28c6c2cff83b95783cc16bfee00a43785dd0ee01[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Mon Aug 10 11:57:14 2020 -0300
+
+    Update index.html
+
+[33mcommit 7c0bcf7bc949ff11beebda58e97e47f757c6937c[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Mon Aug 10 10:43:14 2020 -0300
+
+    icone antes h1
+
+[33mcommit 3f952e49a064b7bf94441e6734b7f75af1406a26[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Mon Aug 10 10:05:13 2020 -0300
+
+    iconeNavbar
+
+[33mcommit 1c079a5bcf91c309ddb2337bc476d972dfd8a76a[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Wed Aug 5 21:58:42 2020 -0300
+
+    mudancinha
+
+[33mcommit f8dc06b19411b7ec3cd2a7423883f2105d673187[m
+Merge: e3e29c0 2eca3c1
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Wed Aug 5 21:52:27 2020 -0300
+
+    Merge branch 'footer' into navBranch
+
+[33mcommit e3e29c0b84cca446ef3713aedf38b979d01b9413[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Wed Aug 5 21:48:14 2020 -0300
+
+    pequenas mudanças
+
+[33mcommit 2eca3c11dead15a95cb157735814400174076112[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Wed Aug 5 21:46:46 2020 -0300
+
+    Update index.html
+
+[33mcommit d2469e6735ad4b21e617900e36dc68d410c053e1[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Wed Aug 5 13:41:47 2020 -0300
+
+    alteraçoes rodapé
+
+[33mcommit 6ddba09163d0c62e1e4d24f00d72f32170ae4478[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Wed Aug 5 12:52:04 2020 -0300
+
+    mudanças no nav
+
+[33mcommit a4b1a771aabb678a0e2e4e370c7cdda0a9f4258a[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Wed Aug 5 09:03:33 2020 -0300
+
+    Subindo repositorio do site
+
+[33mcommit 409341eda0c5cf449dce13647e0e6af0af0b6c0c[m
+Author: David Maciel <david.maciel94@gmail.com>
+Date:   Wed Aug 5 08:49:05 2020 -0300
+
+    Initial commit
