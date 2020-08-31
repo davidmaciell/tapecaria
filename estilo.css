@@ -8,7 +8,7 @@ html{
   body{
     height: 100%;
     width: 100%;
-    background-image: linear-gradient(to right top, #2f71da, #407ad9, #5083d7, #5f8cd5, #6e95d3);
+    background-color: #4F80C4;
     box-sizing: border-box;
   }
 
@@ -19,8 +19,10 @@ html{
   }  
 
   .jaba{
-      font-size: 4em;
+      font-size: 250%;
       font-family: 'Rouge Script', cursive;
+      width: auto;
+      height: auto;
       
   }
 
