@@ -12,10 +12,10 @@ html{
     box-sizing: border-box;
   }
 
-  .container{
+  .carroucel{
     max-width:960px;
     max-height:489px;
-    margin-top: 50px;
+    margin-top: 60px;
   }  
 
   .jaba{
