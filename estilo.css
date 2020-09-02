@@ -12,10 +12,10 @@ html{
     box-sizing: border-box;
   }
   
-  .meucarousel  .carroucel{
+  .meucarousel  .container{
     max-width:960px;
     max-height:489px;
-    margin-top: 50rem;
+    
   }  
 
   .jaba{
