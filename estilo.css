@@ -11,14 +11,11 @@ html{
     background-color: #4F80C4;
     box-sizing: border-box;
   }
-  .navbar{
-    
-  }
-
-  .meucarousel .container{
+  
+  .meucarousel  .carroucel{
     max-width:960px;
     max-height:489px;
-    margin-top: 50px;
+    margin-top: 50rem;
   }  
 
   .jaba{
