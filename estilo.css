@@ -11,6 +11,9 @@ html{
     background-color: #4F80C4;
     box-sizing: border-box;
   }
+  .navbar{
+    
+  }
 
   .meucarousel .container{
     max-width:960px;
