@@ -16,6 +16,9 @@ html{
     padding-left: 0px;
     padding-right: 0px;
   }
+  #todo > li >.nav-item{
+    text-decoration: none;
+  }
 
   .meucarousel  .container{
     max-width:960px;
