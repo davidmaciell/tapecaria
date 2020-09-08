@@ -19,6 +19,10 @@ html{
   #todo > li >.nav-item{
     text-decoration: none;
   }
+  .navbar {
+    font-size: 20px;
+    background-color:#d3d3d3;
+  }
 
   .meucarousel  .container{
     max-width:960px;
@@ -36,6 +40,6 @@ html{
   }
 
   footer {
-    background-color: #FFFAFA;
+    background-color: #d3d3d3;
     
   }
