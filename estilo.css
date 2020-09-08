@@ -8,10 +8,22 @@ html{
   body{
     height: 100%;
     width: 100%;
-    background-color: #4F80C4;
+    
     box-sizing: border-box;
   }
-  
+  #todo{
+    background-color: #4F80C4;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  #todo > li >.nav-item{
+    text-decoration: none;
+  }
+  .navbar {
+    font-size: 20px;
+    background-color:#d3d3d3;
+  }
+
   .meucarousel  .container{
     max-width:960px;
     max-height:489px;
@@ -28,6 +40,6 @@ html{
   }
 
   footer {
-    background-color: #FFFAFA;
+    background-color: #d3d3d3;
     
   }
