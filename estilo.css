@@ -36,6 +36,11 @@ html{
       text-align: center;
       
   }
+  .memorials {
+    width: 80vw;
+    height: 30vh;
+    text-align: center;
+  }
 
   footer {
     background-color: #d3d3d3;
