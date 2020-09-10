@@ -29,7 +29,7 @@ html{
   }  
 
   .jaba{
-      font-size: 3.5rem;
+      font-size: 6vh;
       font-family: 'Rouge Script', cursive;
       width:auto ;
       height: auto;
@@ -38,12 +38,14 @@ html{
   }
   .memorials {
     
-    height: 30vh;
+    font-size: 1vw;
+    height: 20em;
     text-align: center;
     background-color: darkgrey;
   }
   #indicat {
-    margin-bottom:-3em;
+    margin-top:60px;
+    
   }
 
   footer {
