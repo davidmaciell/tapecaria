@@ -42,6 +42,9 @@ html{
     text-align: center;
     background-color: darkgrey;
   }
+  #indicat {
+    margin-bottom:-3em;
+  }
 
   footer {
     background-color: #d3d3d3;
