@@ -29,11 +29,11 @@ html{
   }  
 
   .jaba{
-      font-size: 6vh;
+      font-size: 35px;
       font-family: 'Rouge Script', cursive;
-      width:auto ;
-      height: auto;
+      height: 15rem;
       text-align: center;
+      
       
   }
   .memorials {
